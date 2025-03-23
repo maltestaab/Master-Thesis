@@ -1,6 +1,6 @@
 import argparse
-from agent.agent import DataAnalysisAgent
-from agent.models import UserRequest
+from agent_v1.agent import DataAnalysisAgent
+from agent_v1.models import UserRequest
 
 def main():
     """Main entry point for the data analysis agent."""
